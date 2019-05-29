@@ -1,0 +1,39 @@
+NAMA :  
+Nomor Induk Pegawai : 0
+
+   Minggu 1        Minggu 2      Minggu 3       Minggu 4
+   Hari ke-1      Hari ke-8     Hari ke-15     Hari ke-22
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 0 menit
+----------------------------------------------------------------------
+   Hari ke-2      Hari ke-9     Hari ke-16     Hari ke-23
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 0 menit
+----------------------------------------------------------------------
+   Hari ke-3      Hari ke-10     Hari ke-17     Hari ke-24
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 0 menit
+----------------------------------------------------------------------
+   Hari ke-4      Hari ke-11     Hari ke-18     Hari ke-25
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 0 menit
+----------------------------------------------------------------------
+   Hari ke-5      Hari ke-12     Hari ke-19     Hari ke-26
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 0 menit
+----------------------------------------------------------------------
+   Hari ke-6      Hari ke-13     Hari ke-20     Hari ke-27
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 30 menit
+----------------------------------------------------------------------
+   Hari ke-7      Hari ke-14     Hari ke-21     Hari ke-28
+ 0 jam 0 menit  0 jam 0 menit  0 jam 0 menit  0 jam 0 menit
+----------------------------------------------------------------------
+
+Total Minggu 1 : 0 jam 0 menit
+Total Minggu 2 : 0 jam 0 menit
+Total Minggu 3 : 0 jam 0 menit
+Total Minggu 4 : 0 jam 30 menit
+--------------------------------- +
+Total = 0 jam 30 menit
+
+Gaji(jam) = 0 x Rp 45000 = Rp. 0
+Gaji(menit) = 30/60 x Rp. 45000 = Rp. 22500.00
+Denda = 4 x Rp. 500000 = 2000000
+Gaji Bersih = Rp. 0 + Rp. 22500.00 = Rp. 22500.00 
+
+GAJI AKHIR = Rp. 22500.00 - Rp. 2000000 = Rp. -1977500.00
